@@ -1,0 +1,75 @@
+body{
+background-color:rgba(160, 152, 152, 0.844);
+}
+
+p{
+font-family: 'Open Sans', sans-serif;
+font-family: 'Overpass', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-size: small;
+}
+
+h1{
+font-family: 'Open Sans', sans-serif;
+font-family: 'Overpass', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-size: 25px;
+font-weight: bold;
+color: darkmagenta ;}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: lighter;}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: lighter;}
+li{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+    }
+.contenedor {
+width: 1000px;
+height:850px;
+margin: 0px auto
+}
+
+.foto {
+float: left
+}
+
+.caja1 {
+
+background-color: rgba(255, 255, 255, 0.799);
+width: 200px;
+height: 850px;
+float: left;
+padding: 10px;
+}
+
+.caja2 {
+
+background-color: white;
+width: 420px;
+height: 350px;
+float: left;
+padding: 10px;
+}
+
+.caja3 {
+
+background-color: white;
+width: 420px;
+height: 480px;
+float: left;
+padding: 10px;
+}
+
